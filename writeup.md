@@ -82,7 +82,7 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
     ![][output]
 
-If you'd like to include images to show how the pipeline works, here is how to include an image: 
+If you'd like to include images to show how the pipeline works, here is how to include an image: Put your images into the test_images folder.
 
 
 ###2. Identify potential shortcomings with your current pipeline
